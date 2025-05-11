@@ -1,6 +1,3 @@
-# Resumo do laboratório DIO3
-
-## Foi aprendido na aula 3:
 # 🖥️ Computação e Rede - Laboratório
 
 Este projeto faz parte do bootcamp **Bradesco Java Cloud Native** na [DIO](https://www.dio.me/). A aula **"Computação e Rede - Laboratório"** tem como objetivo apresentar os conceitos fundamentais de redes de computadores e sua aplicação prática no contexto da computação em nuvem.
