@@ -29,13 +29,3 @@ Utilizar o serviço de Language Service no Azure para detectar sentimentos (posi
 
 - Azure Language Studio é eficaz para análise de sentimentos
 - Resultados dependem do contexto do texto e da qualidade dos dados
-
-## 🔗 Links Úteis
-
-- [Language Studio](https://language.cognitive.azure.com/)
-- [Docs Microsoft - Language Service](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/overview)
-- [Repositório Exemplo](https://github.com/AndreNasci/azure-sentiment-analysis)
-
----
-
-Curso disponível em: [DIO - Análise de Sentimentos com Azure AI](https://web.dio.me/project/analise-de-sentimentos-com-language-studio-no-azure-ai/learning/8c520fa1-cfbc-4214-b155-f98a36f49f51)
