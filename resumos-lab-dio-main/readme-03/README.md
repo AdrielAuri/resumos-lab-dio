@@ -1,38 +1,29 @@
-# ☁️ Computação da Nuvem: Laboratório
+# ☁️ Tipos de Serviço de Nuvem: Laboratório
 
-Projeto prático do bootcamp **Bradesco Java Cloud Native** (DIO), demonstrando os fundamentos da computação em nuvem e a utilização de serviços essenciais da AWS.
+Projeto prático do bootcamp **Bradesco Java Cloud Native** (DIO), explorando os principais modelos de serviço em nuvem: IaaS, PaaS e SaaS, e suas aplicações no ambiente corporativo.
 
 ## 🎯 Objetivo
 
-- Compreender os conceitos básicos de computação em nuvem.
-- Explorar os principais serviços da AWS.
-- Realizar atividades práticas de provisionamento e gerenciamento de recursos na nuvem.
+- Compreender os diferentes modelos de serviço em nuvem.
+- Identificar as responsabilidades do provedor e do cliente em cada modelo.
+- Avaliar cenários de aplicação para IaaS, PaaS e SaaS.
 
 ## 🛠️ Etapas do Projeto
 
-1. **Introdução à Computação em Nuvem**
-   - Conceitos de IaaS, PaaS e SaaS.
-   - Benefícios e desafios da adoção da nuvem.
+1. **Introdução aos Modelos de Serviço em Nuvem**
+   - Definição e características de IaaS, PaaS e SaaS.
+   - Exemplos de provedores e serviços para cada modelo.
 
-2. **Explorando a AWS**
-   - Visão geral dos serviços oferecidos pela AWS.
-   - Navegação pelo console da AWS.
+2. **Modelo de Responsabilidade Compartilhada**
+   - Entendimento das responsabilidades do provedor e do cliente.
+   - Análise de segurança e conformidade em cada modelo.
 
-3. **Provisionamento de Recursos**
-   - Criação de instâncias EC2.
-   - Configuração de buckets no S3.
-   - Gerenciamento de permissões com IAM.
-
-4. **Monitoramento e Escalabilidade**
-   - Utilização do CloudWatch para monitoramento.
-   - Configuração de Auto Scaling Groups.
-
-5. **Encerramento e Boas Práticas**
-   - Encerramento de recursos para evitar cobranças.
-   - Práticas recomendadas de segurança e gerenciamento.
+3. **Estudo de Caso**
+   - Avaliação de cenários reais para aplicação de IaaS, PaaS e SaaS.
+   - Identificação do modelo mais adequado para cada situação.
 
 ## 📊 Resultados Esperados
 
-- Capacidade de provisionar e gerenciar recursos básicos na AWS.
-- Compreensão dos serviços essenciais da AWS e suas aplicações.
-- Preparação para aprofundar conhecimentos em computação em nuvem.
+- Entendimento claro dos modelos de serviço em nuvem.
+- Capacidade de identificar responsabilidades em cada modelo.
+- Habilidade para avaliar e escolher o modelo adequado para diferentes cenários.
